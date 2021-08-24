@@ -2,6 +2,8 @@
 
 Sponsored by Farmingdale State College
 
+Project outline (Outdated) by [Ian Matlak](https://github.com/mnai01) | [Here](https://drive.google.com/file/d/14jjGqp4PfNGCHLZAF1oYoJesWnHqx1V8/view)
+
 Tested using Kali Linux VirtualBox 32-Bit v2020.1
 
 Python v3.8.0
